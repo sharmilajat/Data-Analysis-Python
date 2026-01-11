@@ -111,7 +111,7 @@ Identified Top 10 products based on total number of orders
 These customer segments represent the most valuable target audience for marketing and sales strategies.
 # 👩‍💻 Author
 
-Sharmila Jat
+Sharmila Jat<br>
 Aspiring Data Analyst | Python | SQL | Excel | Power BI
 
 # ⭐ If you like this project, don’t forget to star the repository!
