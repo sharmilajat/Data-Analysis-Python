@@ -109,3 +109,9 @@ Identified Top 10 products based on total number of orders
  Married females aged 26–35  Residing in Uttar Pradesh, Maharashtra, and Karnataka Working in IT, Healthcare, and Aviation sectors are most likely to purchase Food, Clothing, and Electronics products
 
 These customer segments represent the most valuable target audience for marketing and sales strategies.
+# 👩‍💻 Author
+
+Sharmila Jat
+Aspiring Data Analyst | Python | SQL | Excel | Power BI
+
+# ⭐ If you like this project, don’t forget to star the repository!
